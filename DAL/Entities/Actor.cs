@@ -1,6 +1,8 @@
-﻿namespace DAL;
+﻿using Core;
 
-public class Actor
+namespace DAL;
+
+public class Actor : BaseEntity
 {
     public Guid ActorID { get; set; }
     public string FirstName { get; set; }
@@ -8,8 +10,6 @@ public class Actor
     public DateTime? BirthDate { get; set; }
     public string Bio { get; set; }
     public string ProfileImageURL { get; set; }
-    public DateTime CreatedAt { get; set; }
-    public DateTime UpdatedAt { get; set; }
 
     public List<MovieActor> MovieActors { get; set; }
 }

@@ -1,6 +1,8 @@
-﻿namespace DAL;
+﻿using Core;
 
-public class Review
+namespace DAL;
+
+public class Review : BaseEntity
 {
     public Guid ReviewID { get; set; }
     public Guid MovieID { get; set; }

@@ -1,6 +1,8 @@
-﻿namespace DAL;
+﻿using Core;
 
-public class MovieGenre
+namespace DAL;
+
+public class MovieGenre : BaseEntity
 {
     public Guid MovieGenreID { get; set; }
     public Guid MovieID { get; set; }
