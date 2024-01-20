@@ -13,9 +13,10 @@ public static class AppServices
         // Add services to the container.
         // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
         services.AddDbContext<MovieDbContext>(options => options.UseSqlServer(config.GetConnectionString("SQLConnectionString")));
+        services.AddControllers();
         services.AddEndpointsApiExplorer();
         services.AddSwaggerGen();
-        services.AddSingleton<ICacheRepository, RedisCacheRepository>();
+        //services.AddSingleton<ICacheRepository, RedisCacheRepository>();
         services.AddTransient<IUnitOfWork, UnitOfWork>();
     }
 }
