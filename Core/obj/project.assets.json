@@ -724,11 +724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hoangtiendung/Documents/API/Core/Core.csproj",
+      "projectUniqueName": "/Users/hoangtiendung/Documents/Server/Core/Core.csproj",
       "projectName": "Core",
-      "projectPath": "/Users/hoangtiendung/Documents/API/Core/Core.csproj",
+      "projectPath": "/Users/hoangtiendung/Documents/Server/Core/Core.csproj",
       "packagesPath": "/Users/hoangtiendung/.nuget/packages/",
-      "outputPath": "/Users/hoangtiendung/Documents/API/Core/obj/",
+      "outputPath": "/Users/hoangtiendung/Documents/Server/Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hoangtiendung/.nuget/NuGet/NuGet.Config"

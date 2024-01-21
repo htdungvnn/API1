@@ -761,11 +761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hoangtiendung/Documents/API/BLL/BLL.csproj",
+      "projectUniqueName": "/Users/hoangtiendung/Documents/Server/BLL/BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "/Users/hoangtiendung/Documents/API/BLL/BLL.csproj",
+      "projectPath": "/Users/hoangtiendung/Documents/Server/BLL/BLL.csproj",
       "packagesPath": "/Users/hoangtiendung/.nuget/packages/",
-      "outputPath": "/Users/hoangtiendung/Documents/API/BLL/obj/",
+      "outputPath": "/Users/hoangtiendung/Documents/Server/BLL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hoangtiendung/.nuget/NuGet/NuGet.Config"
@@ -780,8 +780,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/hoangtiendung/Documents/API/DAL/DAL.csproj": {
-              "projectPath": "/Users/hoangtiendung/Documents/API/DAL/DAL.csproj"
+            "/Users/hoangtiendung/Documents/Server/DAL/DAL.csproj": {
+              "projectPath": "/Users/hoangtiendung/Documents/Server/DAL/DAL.csproj"
             }
           }
         }

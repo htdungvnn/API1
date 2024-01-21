@@ -795,11 +795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hoangtiendung/Documents/API/GRPC/GRPC.csproj",
+      "projectUniqueName": "/Users/hoangtiendung/Documents/Server/GRPC/GRPC.csproj",
       "projectName": "GRPC",
-      "projectPath": "/Users/hoangtiendung/Documents/API/GRPC/GRPC.csproj",
+      "projectPath": "/Users/hoangtiendung/Documents/Server/GRPC/GRPC.csproj",
       "packagesPath": "/Users/hoangtiendung/.nuget/packages/",
-      "outputPath": "/Users/hoangtiendung/Documents/API/GRPC/obj/",
+      "outputPath": "/Users/hoangtiendung/Documents/Server/GRPC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hoangtiendung/.nuget/NuGet/NuGet.Config"

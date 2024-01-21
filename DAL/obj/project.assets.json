@@ -743,11 +743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hoangtiendung/Documents/API/DAL/DAL.csproj",
+      "projectUniqueName": "/Users/hoangtiendung/Documents/Server/DAL/DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "/Users/hoangtiendung/Documents/API/DAL/DAL.csproj",
+      "projectPath": "/Users/hoangtiendung/Documents/Server/DAL/DAL.csproj",
       "packagesPath": "/Users/hoangtiendung/.nuget/packages/",
-      "outputPath": "/Users/hoangtiendung/Documents/API/DAL/obj/",
+      "outputPath": "/Users/hoangtiendung/Documents/Server/DAL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hoangtiendung/.nuget/NuGet/NuGet.Config"
@@ -762,8 +762,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/hoangtiendung/Documents/API/Core/Core.csproj": {
-              "projectPath": "/Users/hoangtiendung/Documents/API/Core/Core.csproj"
+            "/Users/hoangtiendung/Documents/Server/Core/Core.csproj": {
+              "projectPath": "/Users/hoangtiendung/Documents/Server/Core/Core.csproj"
             }
           }
         }

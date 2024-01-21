@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jTrh6edIo0oOKKpXeX35DtrEWcggbBBZg9OQqXawBwhvK3OKtG2ZTNSpIAbJoeql+Af1+e0TK1PfaQCbZYtZSg==",
+  "dgSpecHash": "s+jU1mbRZCBgn0XKGneu+eHG8XWjh7L5/YDrRoaDdwqNU+9apDFsD8MONnZc5xmu0c1cttrms3LxAcAC+bY0Pw==",
   "success": true,
-  "projectFilePath": "/Users/hoangtiendung/Documents/API/GRPC/GRPC.csproj",
+  "projectFilePath": "/Users/hoangtiendung/Documents/Server/GRPC/GRPC.csproj",
   "expectedPackageFiles": [
     "/Users/hoangtiendung/.nuget/packages/google.protobuf/3.23.1/google.protobuf.3.23.1.nupkg.sha512",
     "/Users/hoangtiendung/.nuget/packages/grpc.aspnetcore/2.57.0/grpc.aspnetcore.2.57.0.nupkg.sha512",

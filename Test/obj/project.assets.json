@@ -5523,11 +5523,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hoangtiendung/Documents/API/Test/Test.csproj",
+      "projectUniqueName": "/Users/hoangtiendung/Documents/Server/Test/Test.csproj",
       "projectName": "Test",
-      "projectPath": "/Users/hoangtiendung/Documents/API/Test/Test.csproj",
+      "projectPath": "/Users/hoangtiendung/Documents/Server/Test/Test.csproj",
       "packagesPath": "/Users/hoangtiendung/.nuget/packages/",
-      "outputPath": "/Users/hoangtiendung/Documents/API/Test/obj/",
+      "outputPath": "/Users/hoangtiendung/Documents/Server/Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hoangtiendung/.nuget/NuGet/NuGet.Config"

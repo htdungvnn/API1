@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j5P5Aw+Wz+13fnZbBDq+D5vmoNcg7Vc/uj+l+qarN3X3zcm/yCGDWb/F1xoyY8Wu2IM6PaVWNUUHRnAIj/c7qw==",
+  "dgSpecHash": "YIBwfOU9t2031M54qo4ckZJbilypqoKhSdO97KNMFg9O79Q5ESlB13epNsCcsMbyeIxUdJKCUPqdatqI8xhrzQ==",
   "success": true,
-  "projectFilePath": "/Users/hoangtiendung/Documents/API/Core/Core.csproj",
+  "projectFilePath": "/Users/hoangtiendung/Documents/Server/Core/Core.csproj",
   "expectedPackageFiles": [
     "/Users/hoangtiendung/.nuget/packages/microsoft.entityframeworkcore/8.0.1/microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
     "/Users/hoangtiendung/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.1/microsoft.entityframeworkcore.abstractions.8.0.1.nupkg.sha512",

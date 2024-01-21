@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4xm1myCf1o18HEI2uj9M1cXWITFegz2MVIt6elxif4ClEvHOA0/fHAsjTJJJmmAX6mOrlNyVgC8rV+K5r3gmvw==",
+  "dgSpecHash": "6V36LNoJ8+YD9vVg7in/GOv0mOY5QcaDMXO4aGpwg4CRKoGlvTiFVJmlRZLTgwAjjcYKu3Bku9XoxzzZDFNn1Q==",
   "success": true,
-  "projectFilePath": "/Users/hoangtiendung/Documents/API/API/API.csproj",
+  "projectFilePath": "/Users/hoangtiendung/Documents/Server/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/hoangtiendung/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/hoangtiendung/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

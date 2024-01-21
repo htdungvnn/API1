@@ -3300,11 +3300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hoangtiendung/Documents/API/API/API.csproj",
+      "projectUniqueName": "/Users/hoangtiendung/Documents/Server/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/hoangtiendung/Documents/API/API/API.csproj",
+      "projectPath": "/Users/hoangtiendung/Documents/Server/API/API.csproj",
       "packagesPath": "/Users/hoangtiendung/.nuget/packages/",
-      "outputPath": "/Users/hoangtiendung/Documents/API/API/obj/",
+      "outputPath": "/Users/hoangtiendung/Documents/Server/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hoangtiendung/.nuget/NuGet/NuGet.Config"
@@ -3319,11 +3319,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/hoangtiendung/Documents/API/BLL/BLL.csproj": {
-              "projectPath": "/Users/hoangtiendung/Documents/API/BLL/BLL.csproj"
+            "/Users/hoangtiendung/Documents/Server/BLL/BLL.csproj": {
+              "projectPath": "/Users/hoangtiendung/Documents/Server/BLL/BLL.csproj"
             },
-            "/Users/hoangtiendung/Documents/API/Core/Core.csproj": {
-              "projectPath": "/Users/hoangtiendung/Documents/API/Core/Core.csproj"
+            "/Users/hoangtiendung/Documents/Server/Core/Core.csproj": {
+              "projectPath": "/Users/hoangtiendung/Documents/Server/Core/Core.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCDhZYOg9OD7/Llxkyk4T3lN8+TSNTCZRvcTsBoewMlmdrLmX46Prg9z1X1ITimnMbIE/Pj8k9OY6I8Mvsr1Zg==",
+  "dgSpecHash": "boPFd1kkWeGjPgHddHh9c50YTA0OpNg3ozadyy1JHfnJ7FwLksORI1KGmhM+Kq6J42bAlr+TBz8zLvg3GjAq7w==",
   "success": true,
-  "projectFilePath": "/Users/hoangtiendung/Documents/API/Test/Test.csproj",
+  "projectFilePath": "/Users/hoangtiendung/Documents/Server/Test/Test.csproj",
   "expectedPackageFiles": [
     "/Users/hoangtiendung/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/hoangtiendung/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
