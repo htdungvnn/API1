@@ -12,5 +12,6 @@ public static class AppBuilder
         }
 
         app.UseHttpsRedirection();
+        app.UseAuthorization();
     }
 }
